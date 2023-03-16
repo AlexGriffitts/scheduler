@@ -3,7 +3,7 @@
 ## Description
 This project is the creation of a calander/ scheduler using a starter pack javascript and implementing momentjs.
 
-[here is a link to the website.](https://github.com/AlexGriffitts/scheduler/)
+[here is a link to the website.](https://alexgriffitts.github.io/scheduler/)
 
 
 
